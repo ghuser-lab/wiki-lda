@@ -1,0 +1,7 @@
+corpus/
+*.model*
+docTopicProbMat_*
+.DS_Store
+__pycache__/
+*.bz2
+*.zip
